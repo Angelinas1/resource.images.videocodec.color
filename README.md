@@ -1,1 +1,2 @@
-resource.images.videocodec.color
+# resource.images.videocodec.color
+Color media flags for Kodi - VideoCodec
